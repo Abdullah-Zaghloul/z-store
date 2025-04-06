@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_instance/get_instance.dart';
-import 'package:t_store/features/authentication/controllers/onboarding_controller.dart';
-import 'package:t_store/features/authentication/screens/onboarding/widgets/onboarding_dot_navigation.dart';
-import 'package:t_store/features/authentication/screens/onboarding/widgets/onboarding_next_button.dart';
-import 'package:t_store/features/authentication/screens/onboarding/widgets/onboarding_page.dart';
-import 'package:t_store/features/authentication/screens/onboarding/widgets/onboarding_skip.dart';
-import 'package:t_store/utils/constants/app_texts.dart';
-import 'package:t_store/utils/constants/image_strings.dart';
+import 'package:z_store/features/authentication/controllers/onboarding_controller.dart';
+import 'package:z_store/features/authentication/screens/onboarding/widgets/onboarding_dot_navigation.dart';
+import 'package:z_store/features/authentication/screens/onboarding/widgets/onboarding_next_button.dart';
+import 'package:z_store/features/authentication/screens/onboarding/widgets/onboarding_page.dart';
+import 'package:z_store/features/authentication/screens/onboarding/widgets/onboarding_skip.dart';
+import 'package:z_store/utils/constants/app_texts.dart';
+import 'package:z_store/utils/constants/image_strings.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:t_store/utils/constants/sizes.dart';
+import 'package:z_store/utils/constants/sizes.dart';
 import '../../constants/app_colors.dart';
 
 class TAppBarTheme {
